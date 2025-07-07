@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [an Ecommerce website that people can buy and sell goods and services internationaly](https://ziyaad-ecommerce.vercel.app/)
 
-- 🌱 I’m currently learning **Javascript and Node React**
+- 🌱 I’m currently learning **Javascript and React**
 
 - 👨‍💻 All of my projects are available at [https://ziyaadlabaran.vercel.app/](https://ziyaadlabaran.vercel.app/)
 
